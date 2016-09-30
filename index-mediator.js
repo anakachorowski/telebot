@@ -6,7 +6,7 @@ if (process.env.server != 'heroku') require('dotenv').config();
 
 const Mediator = require('./modules/mediator/');
 
-const token = process.env.API_TOKEN || 'INSERT API_TOKEN';
+const token = process.env.API_TOKEN || 'INSERT TG_TOKEN';
 // Setup polling way
 const bot = new TelegramBot(token, { polling: true });
 
