@@ -1,0 +1,8 @@
+.vscode
+node_modules
+.env
+pid
+npm-debug.log
+*.mp3
+.idea
+/local_tests/*
