@@ -6,3 +6,6 @@ npm-debug.log
 *.mp3
 .idea
 /local_tests/*
+data
+mongod
+.c9
