@@ -1,8 +1,8 @@
-# Bot-Telegram-BeMEAN
+# Telebot
 
-Bot, para o Telegram, criado pelo Be MEAN.
+Bot para o Telegram, baseado no bot criado pelo Be MEAN.
 
-**User: @BeMEANoficial_bot**
+Requer Node v6 ou superior.
 
 A ideia é que ele possa lhe ajudar a achar a informação mais fácil, principalmente em se tratando de **tecnologia**, além disso executa código em JavaScript!!!
 
